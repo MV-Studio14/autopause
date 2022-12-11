@@ -37,10 +37,10 @@ public class Main extends Plugin {
     // pause if 'on' == true
     public void pause(boolean on){
         if (on){
-            state.serverPaused = true;
+            state.set(GameState.State.paused);
             Log.info("[autopause] Game auto paused");
         } else {
-            state.serverPaused = false;
+            state.set(GameState.State.playing);
             Log.info("[autopause] Game auto resumed");
         }
     }
