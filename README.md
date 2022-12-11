@@ -1,8 +1,10 @@
 # AUTOPAUSE
 This plugin will automatically pause your game if there aren't enough players online _(see usage)_
 
-- Download for V6: 
-- Download for V7: 
+- Download for V6:
+  - https://github.com/MV-Studio14/autopause/releases/download/V1.0/auto_pause_V6.jar
+- Download for V7:
+  - https://github.com/MV-Studio14/autopause/releases/download/V1.0/auto_pause_V7.jar
 
 ## SETUP
 - Download the plugin
