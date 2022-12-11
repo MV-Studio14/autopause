@@ -1,0 +1,8 @@
+{
+  "name": "Autopause",
+  "author": "MV-Studio14",
+  "main": "autopause.Main",
+  "source": "https://github.com/MV-Studio14/autopause",
+  "description": "Auto pause your game when there aren't players online",
+  "version": 1.0
+}
